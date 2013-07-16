@@ -11,4 +11,10 @@ Usage
 -----
 
 1) chmod +x benchmark.sh
+
 2) bash benchmark.sh
+
+Output
+------
+
+![alt tag](http://i.imgur.com/6E8gSg0.png?1)
